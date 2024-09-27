@@ -28,5 +28,6 @@ ys = [1, 3, 1, 2, 1.5]
 plt.scatter(xs, ys) # draw points
 plt.plot(xs, ys) # add lines between points
 
+
 plt.show()
 
